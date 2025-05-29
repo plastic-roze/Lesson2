@@ -5,7 +5,7 @@
 
 body {
     font-family: "Comic Sans MS", sans-serif;
-    background: linear-gradient(to right, #c1dbf5, #ffffff);
+    background: linear-gradient(to right, #dfe9f3, #ffffff);
     padding: 20px;
     text-align: center;
 }
@@ -20,7 +20,7 @@ body {
     font-size: 16px;
     cursor: pointer;
     border: none;
-    background-color: #97c0ff;
+    background-color: #e6f0ff;
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     transition: background 0.3s;
