@@ -4,8 +4,8 @@
 }
 
 body {
-    font-family: "Times New Roman", Times, serif;
-    background: linear-gradient(to right, #94c9ff, #ffffff);
+    font-family: "Comic Sans MS", sans-serif;
+    background: linear-gradient(to right, #c1dbf5, #ffffff);
     padding: 20px;
     text-align: center;
 }
@@ -20,7 +20,7 @@ body {
     font-size: 16px;
     cursor: pointer;
     border: none;
-    background-color: #e6f0ff;
+    background-color: #97c0ff;
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     transition: background 0.3s;
